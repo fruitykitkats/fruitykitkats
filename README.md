@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I’m exploring new technologies and developing software solutions.
+- 🤔 &nbsp; I’m exploring new technologies :)
 - 💬 &nbsp; Ask me anything about discord bots.
-- 🌱 &nbsp; I’m currently learning C++.
+- 🌱 &nbsp; I’m currently learning C# and typescript
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
