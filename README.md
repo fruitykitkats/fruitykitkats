@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; I’m exploring new technologies :)
 - 💬 &nbsp; Ask me anything about discord bots.
-- 🌱 &nbsp; I’m currently learning C# and typescript
+- 🌱 &nbsp; I’m currently learning C#
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
