@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I’m exploring new technologies :)
-- 💬 &nbsp; Ask me anything about discord bots.
-- 🌱 &nbsp; I’m currently learning C#
+- 💬 &nbsp; Ask me anything about anything.
+- 🌱 &nbsp; I’m currently learning C# and Java
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
