@@ -39,8 +39,4 @@
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=fruitykitkats&theme=dark)
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=fruitykitkats&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
-
 </div>
