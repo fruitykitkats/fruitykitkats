@@ -39,4 +39,6 @@
 
 <div align="center">
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=fruitykitkats&theme=dark)
+
 </div>
